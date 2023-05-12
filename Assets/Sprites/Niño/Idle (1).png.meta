@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: f1ec5a20347f547c988a24a2cd79e257
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3561858456799500357
+    second: Idle (1)
+  - first:
+      213: 6852915482990001201
+    second: Idle (1)_1
+  - first:
+      213: -7033020977862838341
+    second: Idle (1)_2
+  - first:
+      213: -2475086675422401214
+    second: Idle (1)_3
+  - first:
+      213: 1567629258615391085
+    second: Idle (1)_4
+  - first:
+      213: 1928577251628939343
+    second: Idle (1)_5
+  - first:
+      213: 8330970149007070619
+    second: Idle (1)_6
+  - first:
+      213: -3427328904367525836
+    second: Idle (1)_7
+  - first:
+      213: -3837644433285675056
+    second: Idle (1)_8
+  - first:
+      213: 5276707777686541947
+    second: Idle (1)_9
+  - first:
+      213: 5021585072078011180
+    second: Idle (1)_10
+  - first:
+      213: 5536685801623150054
+    second: Idle (1)_11
+  - first:
+      213: 5544323410197578535
+    second: Idle (1)_12
+  - first:
+      213: 1112822058902864272
+    second: Idle (1)_13
+  - first:
+      213: -6318470543737463385
+    second: Idle (1)_14
+  - first:
+      213: 4497312338653700630
+    second: Idle (1)_15
+  - first:
+      213: 4029754649434654610
+    second: Idle (1)_16
+  - first:
+      213: -3447305878538030448
+    second: Idle (1)_17
+  - first:
+      213: 2188486387257956730
+    second: Idle (1)_18
+  - first:
+      213: -4895149379635780700
+    second: Idle (1)_19
+  - first:
+      213: 8772274654909181307
+    second: Idle (1)_20
+  - first:
+      213: 5387768901745274160
+    second: Idle (1)_21
+  - first:
+      213: 3327235069169434333
+    second: Idle (1)_22
+  - first:
+      213: -3067027062656561642
+    second: Idle (1)_23
+  - first:
+      213: 6694876218123074303
+    second: Idle (1)_24
+  - first:
+      213: 7614079840465499496
+    second: Idle (1)_25
+  - first:
+      213: 3567708563075814981
+    second: Idle (1)_26
+  - first:
+      213: -5449945058667973184
+    second: Idle (1)_27
+  - first:
+      213: -6479076824591597695
+    second: Idle (1)_28
+  - first:
+      213: -3940185091516319084
+    second: Idle (1)_29
+  - first:
+      213: 3798898935077686299
+    second: Idle (1)_30
+  - first:
+      213: -6681354946319480251
+    second: Idle (1)_31
+  - first:
+      213: -8369177901595135719
+    second: Idle (1)
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 330
+  spriteBorder: {x: 0, y: 55, z: 310, w: 20}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle (1)
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 62
+        width: 284
+        height: 477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9117f515a05badb80800000000000000
+      internalID: -8369177901595135719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

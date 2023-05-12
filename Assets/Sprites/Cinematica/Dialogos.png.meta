@@ -1,0 +1,932 @@
+fileFormatVersion: 2
+guid: f76525f23de255e4894bfeb0a4e60c00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6101027113855546124
+    second: Dialogos_0
+  - first:
+      213: -371466510925010793
+    second: Dialogos_1
+  - first:
+      213: 2181295114835518650
+    second: Dialogos_2
+  - first:
+      213: 7066190177579868570
+    second: Dialogos_3
+  - first:
+      213: -6195034185629183174
+    second: Dialogos_4
+  - first:
+      213: 1864055217778483592
+    second: Dialogos_5
+  - first:
+      213: -2760099378091320739
+    second: Dialogos_6
+  - first:
+      213: -6890098352204965371
+    second: Dialogos_7
+  - first:
+      213: -6004076595112230366
+    second: Dialogos_8
+  - first:
+      213: 7340840030307306443
+    second: Dialogos_9
+  - first:
+      213: 8787494316195969920
+    second: Dialogos_10
+  - first:
+      213: 4333968378503641534
+    second: Dialogos_11
+  - first:
+      213: -6181209674347421448
+    second: Dialogos_12
+  - first:
+      213: 1544446691641573059
+    second: Dialogos_13
+  - first:
+      213: 51113130003249514
+    second: Dialogos_14
+  - first:
+      213: -2441127221558341275
+    second: Dialogos_15
+  - first:
+      213: 7945255279734615059
+    second: Dialogos_16
+  - first:
+      213: 3410367251523340567
+    second: Dialogos_17
+  - first:
+      213: -4428296699663442582
+    second: Dialogos_18
+  - first:
+      213: 5163685969822732728
+    second: Dialogos_19
+  - first:
+      213: -1274506604291420448
+    second: Dialogos_20
+  - first:
+      213: -2177728579847697594
+    second: Dialogos_21
+  - first:
+      213: 5972901153515539376
+    second: Dialogos_22
+  - first:
+      213: -3401018590523523371
+    second: Dialogos_23
+  - first:
+      213: -6746011445296165355
+    second: Dialogos_24
+  - first:
+      213: -555162429264339920
+    second: Dialogos_25
+  - first:
+      213: -6065574324901304044
+    second: Dialogos_26
+  - first:
+      213: -292833360690313736
+    second: Dialogos_27
+  - first:
+      213: 8129278047646961794
+    second: Dialogos_28
+  - first:
+      213: -8586408726732398065
+    second: Dialogos_29
+  - first:
+      213: 6123391245633006033
+    second: Dialogos_30
+  - first:
+      213: -368377364668859166
+    second: Dialogos_31
+  - first:
+      213: 2094695521973252236
+    second: Dialogos_32
+  - first:
+      213: 2680967102858992319
+    second: Dialogos_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dialogos_0
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 304
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03f26ed5d33ba450800000000000000
+      internalID: 6101027113855546124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 304
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7986c5a2d2948daf0800000000000000
+      internalID: -371466510925010793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 302
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4e0169954854e10800000000000000
+      internalID: 2181295114835518650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 302
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91a00a3786201260800000000000000
+      internalID: 7066190177579868570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 304
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33db2a1b31d60aa0800000000000000
+      internalID: -6195034185629183174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 304
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881666928547ed910800000000000000
+      internalID: 1864055217778483592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_6
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 304
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a17104d3822b9d0800000000000000
+      internalID: -2760099378091320739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 302
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a9151dd047160a0800000000000000
+      internalID: -6890098352204965371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_8
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 304
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2224910d52c3daca0800000000000000
+      internalID: -6004076595112230366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_9
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 304
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb4f673d17efd560800000000000000
+      internalID: 7340840030307306443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 244
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bff9eb58373f970800000000000000
+      internalID: 8787494316195969920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 244
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb93c742749552c30800000000000000
+      internalID: 4333968378503641534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 244
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f06056fc8ee73aa0800000000000000
+      internalID: -6181209674347421448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 244
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceb2dd451afe6510800000000000000
+      internalID: 1544446691641573059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_14
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 166
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69b335fe1795b000800000000000000
+      internalID: 51113130003249514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_15
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 174
+        width: 135
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5619a73c9bf5f1ed0800000000000000
+      internalID: -2441127221558341275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 188
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ce066c497334e60800000000000000
+      internalID: 7945255279734615059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 188
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7198ca442fe045f20800000000000000
+      internalID: 3410367251523340567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 188
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d96802d978b82c0800000000000000
+      internalID: -4428296699663442582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 188
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1d3faf70919a740800000000000000
+      internalID: 5163685969822732728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 131
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee025bfefa005ee0800000000000000
+      internalID: -1274506604291420448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 131
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b46fc056727c1e0800000000000000
+      internalID: -2177728579847697594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_22
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 131
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb80dd04f104e250800000000000000
+      internalID: 5972901153515539376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_23
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 131
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de785d7c972dc0d0800000000000000
+      internalID: -3401018590523523371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_24
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 24
+        width: 163
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e0768155a5162a0800000000000000
+      internalID: -6746011445296165355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_25
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 28
+        width: 154
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c5e0346baab48f0800000000000000
+      internalID: -555162429264339920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 74
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419278dc940c2dba0800000000000000
+      internalID: -6065574324901304044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 74
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f58ba52c95afebf0800000000000000
+      internalID: -292833360690313736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_28
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 74
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280d066405ff0d070800000000000000
+      internalID: 8129278047646961794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_29
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 74
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f022dca71c2f6d880800000000000000
+      internalID: -8586408726732398065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 20
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d921b015e7aaf450800000000000000
+      internalID: 6123391245633006033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_31
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 20
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec3e931db243eaf0800000000000000
+      internalID: -368377364668859166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_32
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 20
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8031d3aa7ad11d10800000000000000
+      internalID: 2094695521973252236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogos_33
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 24
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba1b6c2065b43520800000000000000
+      internalID: 2680967102858992319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ec0139849863055428f89b76c17b71d4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
